@@ -1,0 +1,20 @@
+repo_name: lukas1989Analna/lukas1989Analna
+report_id: 1011db1cd1df22f4aa0de5edf9824c9d
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-14T02:41:30+00:00'
+requested_by: lukas1989Analna
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lukas1989Analna/lukas1989Analna
+  detection_source: Repo Metadata
